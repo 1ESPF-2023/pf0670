@@ -10,7 +10,7 @@ const botao = document.getElementById("btn-1");
 //Recuerar uma lista de elementos com a função
 //querySelecorAll
 const seletores = document.querySelectorAll("li");
-
+ 
 seletores.forEach((item)=>{
 
     if (item.textContent == "Item-15") {
